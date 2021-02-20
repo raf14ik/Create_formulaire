@@ -1,0 +1,12 @@
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.vbprojAssemblyReference.cache
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.Resources.resources
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.vbproj.GenerateResource.cache
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.vbproj.CoreCompileInputs.cache
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.Form1.resources
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\bin\Debug\formulaire.exe.config
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\bin\Debug\formulaire.exe
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\bin\Debug\formulaire.pdb
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\bin\Debug\formulaire.xml
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.exe
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.xml
+C:\Users\RAFIK\Documents\My Web Sites\formulaire\formulaire\obj\Debug\formulaire.pdb
